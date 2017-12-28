@@ -1,6 +1,11 @@
 # Nodejs_GOT_RPG
 
-Execute o arquivo como:
+Antes de usar, instale:
+
+    -NodeJS
+    -Mongodb
+
+Após a instalação, entre na pasta do jogo e execute o arquivo como:
 
     -nodemon app.js
 
